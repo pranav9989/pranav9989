@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="./Coding%20Cat.jfif" alt="Coding Cat" width="800">
+</p>
+
 I'm Pranav Raghuvanshi
 
 💻 Software Developer | Java | Spring Boot | React | AI/ML
