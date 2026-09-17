@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./Coding%20Cat.jfif" alt="Coding Cat" width="800">
+  <img src="./Coding%20Cat.jfif" alt="Coding Cat" width="80">
 </p>
 
 I'm Pranav Raghuvanshi
